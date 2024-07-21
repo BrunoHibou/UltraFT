@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b2edff81973c1a",
+        "id": "b084b0f0f8798a37",
         "type": "tabs",
         "children": [
           {
-            "id": "f1e986cac23543f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e29d0b15f13e800a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ec443f88266cd3e",
+            "id": "2862f991a94a51c3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,9 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1e986cac23543f8",
+  "active": "2862f991a94a51c3",
   "lastOpenFiles": [
+    "Mismagius.md",
+    "bw.md",
+    "Cecyl.md",
+    "Zero.md",
+    "Mundo da Raltz.md",
+    "Deoxys.md",
+    "Pasted image 20240721024936.png",
+    "Pasted image 20240721021703.png",
     "README.md",
+    "mundo da Ratlz.md",
+    "create a link.md",
     "Welcome.md"
   ]
 }
