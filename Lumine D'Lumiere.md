@@ -1,0 +1,15 @@
+Lumine D'Lumiere nasceu na região de [[Shimmer]], mais especificamente na cidade portuária de [[Mequoifen]]. Seus pais, [[Sana D' Durant]] e [[Monyu Lumiere]], possuíam uma padaria desde o nascimento de Lumine. Crescendo entre pães e doces, Lumine aprendeu desde cedo a arte da confeitaria e como a comida tem o poder de alegrar tanto pessoas quanto Pokémon. Ela sempre via as pequenas criaturas Pokémon que visitavam a padaria e ficava admirada com o poder e a lealdade que um elo entre treinador e Pokémon podiam gerar.
+
+Aos 12 anos, durante uma aula, Lumine ouviu falar sobre as Mega stones pela primeira vez. Fascinada pela possibilidade de criar um novo patamar de força para os Pokémon, ela começou a estudar avidamente sobre essas pedras misteriosas. Aos 14 anos, os pais de Lumine a levaram para conhecer o DayCare da cidade, onde o público podia brincar e até mesmo adotar alguns Pokémon. Lumine passava horas brincando com os Pokémon até conseguir um trabalho de meio período lá. Seus pais, percebendo o amor profundo de Lumine pelos Pokémon, lhe presentearam com uma Sprigatito quando ela completou 16 anos. Lumine chamou sua nova amiga de [[Pata-mansa]]. A partir daquele momento, ela começou a desenvolver um forte senso de responsabilidade, dedicando-se a cuidar e entender melhor seu Pokémon.
+
+Aos 17 anos, Lumine foi aceita na [[Universidade Riquíssimos Rico]], conhecida por formar profissionais competentes para a empresa de mesmo nome. Durante seu tempo na universidade, Lumine se dedicou a entender o elo entre treinadores e Pokémon, acreditando que a base para criar Mega stones eficazes seria compreender profundamente essas relações. Por isso, ela decidiu se tornar uma Breeder, uma cuidadora, determinada a ser amiga de todos os Pokémon do mundo. Foi nesse mesmo ano que ela conheceu seus outros amigos Pokémon:
+
+[[Sayori]], uma Fletchling que ela encontrou caída de um ninho com a asa quebrada. Lumine cuidou dela até melhorar e, desde então, nunca mais se separaram.
+
+[[Yuri]], uma Hoothoot que ela conheceu certa madrugada enquanto acampava com sua mãe. Encontraram Yuri presa entre galhos de árvores e, após salvá-la, ela resolveu ficar com Lumine.
+
+[[Tuctika]], uma Pikipek que ficava bicando a janela de Lumine durante o período de frio. Lumine criou um espaço aquecido perto da janela, o que fez com que Tuctika se apegasse a ela e se juntasse à família.
+
+[[Aqua]], uma Magikarp que Lumine pescou com seu pai. Ao olhar para o rosto dela, Lumine se recusou a comer Aqua, prometendo que a transformaria em uma bela Gyarados um dia.
+
+Após se formar, Lumine começou a trabalhar como empregada para cientistas da Riquíssimos Rico, ajudando a organizar papeladas, relatórios e itens de pesquisa. Acima de tudo, ela ajudava a cuidar dos Pokémon deles, uma ótima forma de se manter perto das criaturas adoráveis enquanto continuava suas próprias pesquisas sobre Mega stones.

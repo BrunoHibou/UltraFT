@@ -1,0 +1,1 @@
+Shimmer é um dos continentes do [[Mundo Principal]]
